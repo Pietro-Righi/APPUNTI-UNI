@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ea9014c9d9cb5a47",
@@ -171,6 +171,8 @@
   },
   "active": "f5b19115939cb647",
   "lastOpenFiles": [
+    "PDF/es cap 1 NON FATTO .pdf",
+    "PDF/Lezione 1 cap 1 FATTO.pdf",
     "PDF/INIB24_0104a_0522.pdf",
     "PDF/INIB24_0104a_0512.pdf",
     "PDF/INIB24_0104a_0502.pdf",
@@ -180,8 +182,6 @@
     "PDF/INIB24_0104a_0402.pdf",
     "PDF/INIB24_0104a_0401.pdf",
     "PDF/INIB24_0104a_0322.pdf",
-    "PDF/INIB24_0104a_0312.pdf",
-    "PDF/INIB24_0104a_0302.pdf",
     "Welcome.md",
     "Analisi Numerica/Capitolo 1.md"
   ]
