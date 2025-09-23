@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Analisi Numerica/Capitolo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2fedf26a58229ada",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2340d9e47a637968",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Capitolo 1"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Analisi Numerica/Capitolo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Capitolo 1"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Analisi Numerica/Capitolo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Capitolo 1"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Analisi Numerica/Capitolo 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Capitolo 1"
             }
           }
         ]
@@ -187,6 +171,8 @@
   },
   "active": "f5b19115939cb647",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Analisi Numerica/Capitolo 1.md",
+    "Analisi Numerica"
   ]
 }
