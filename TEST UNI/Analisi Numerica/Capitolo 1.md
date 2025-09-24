@@ -70,3 +70,4 @@ che si riscrive
 k ≥ log2 (𝑏 − 𝑎) − log2 (𝜖)
 
 che ci aiuta a trovare il numero minimo di iterazioni per il metodo di bisezione necessarie affinchè l' errore sia inferiore alla tolleranza desiderata
+
