@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi Numerica/Capitolo 1.md",
+                "file": "Analisi Numerica/Capitolo 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitolo 1"
+              "title": "Capitolo 2"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "f5b19115939cb647",
   "lastOpenFiles": [
+    "PDF/arrivato qui .pdf",
+    "Analisi Numerica/Capitolo 1.md",
+    "Analisi Numerica/Capitolo 2.md",
+    "PDF/Lezione 3 cap 1 FATTO.pdf",
+    "PDF/Lezione 2 cap 1 FATTO.pdf",
+    "PDF/INIB24_0104a_0212.pdf",
     "PDF/es cap 1 NON FATTO .pdf",
     "PDF/Lezione 1 cap 1 FATTO.pdf",
     "PDF/INIB24_0104a_0522.pdf",
@@ -178,11 +184,6 @@
     "PDF/INIB24_0104a_0502.pdf",
     "PDF/INIB24_0104a_0501.pdf",
     "PDF/INIB24_0104a_0422.pdf",
-    "PDF/INIB24_0104a_0412.pdf",
-    "PDF/INIB24_0104a_0402.pdf",
-    "PDF/INIB24_0104a_0401.pdf",
-    "PDF/INIB24_0104a_0322.pdf",
-    "Welcome.md",
-    "Analisi Numerica/Capitolo 1.md"
+    "Welcome.md"
   ]
 }

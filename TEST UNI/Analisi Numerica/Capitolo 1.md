@@ -22,7 +22,7 @@ generare una successione di numeri reali X tale che al tendere di k all' infinit
 
 Forma chiusa di un equazione : Una **forma chiusa** è una **formula finita e calcolabile**, scritta con **operazioni note**, **senza iterazioni** o **approssimazioni** ( esempio annotazioni infinite ) .
 
-## Teorema degli zeri delle funzioni continue
+## Teorema degli zeri delle funzioni continue  ( TZFC)
 
 Funzione continua: Una **funzione è continua** in un punto se **non ha "salti", "buchi" o "interruzioni"** in quel punto.
 
@@ -69,5 +69,18 @@ che si riscrive
 
 k ≥ log2 (𝑏 − 𝑎) − log2 (𝜖)
 
-che ci aiuta a trovare il numero minimo di iterazioni per il metodo di bisezione necessarie affinchè l' errore sia inferiore alla tolleranza desiderata
+che ci aiuta a trovare il numero minimo di iterazioni per il metodo di bisezione necessarie affinché l' errore sia inferiore alla tolleranza desiderata
+
+ 
+
+## Radice di equazione non lineari
+
+consideriamo una funzione f(x) definita su un intervallo I della retta reale , vogliamo determinare se esiste , il valore a appartenente all' intervallo I tale per cui il risultato sia 0 
+
+
+**Definizione**
+t.c. = tale che 
+
+
+Metodo di bisezione 
 
